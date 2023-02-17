@@ -5,7 +5,7 @@
 .img{
     display:flex;
 }
-.banner-img{
+/* .banner-img{
     background-image: url("../images/banner.png");
     height: 100vh;
 }
@@ -16,4 +16,4 @@
 .banner-img{
     background-image:url("../images/slider-3.jpg");  
     height: 100vh;
-}
+} */
